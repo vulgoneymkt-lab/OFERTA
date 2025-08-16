@@ -61,7 +61,7 @@ export default function FinalCTAScreen({ gameProgress }: FinalCTAScreenProps) {
 
   const handleCTAClick = () => {
     // Substitua este link pelo seu link real
-    window.open("https://seu-link-aqui.com", "_blank")
+    window.open("meupagamentoseguro.space", "_blank")
   }
 
   const satisfactionRate = Math.round((gameProgress.totalEarnings / 375) * 100)
